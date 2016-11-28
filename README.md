@@ -123,9 +123,9 @@ Slides: [Presentations/Vianello_FasterSimilarityQueries.pdf](Presentations/Viane
 Nikolas Fechner
 
 Notebooks:
- - [Tutorials/Part I - Toy data example and overfitting risks.ipynb](Part 1)
- - [Tutorials/Part II - Descriptors and Regression.ipynb](Part 2)
- - [Tutorials/Part III - Fingerprints and Classification.ipynb](Part 3)
+ - [Tutorials/Part1_Toy_data_example_and_overfitting_risks.ipynb](Part 1)
+ - [Tutorials/Part2_Descriptors_and_regression.ipynb](Part 2)
+ - [Tutorials/Part3_Fingerprints_and_classification.ipynb](Part 3)
 
 - - - - - - -
 **Implementing RDKit nodes for KNIME**
