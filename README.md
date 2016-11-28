@@ -31,7 +31,7 @@ What's new: [Notebooks/Whats New.ipynb](Notebooks/Whats New.ipynb)
 
 Bonus material, not actually from the UGM:
 
-A brief introduction to the RDKit: [Brief Introduction.ipynb](Brief Introduction.ipynb)
+A brief introduction to the RDKit: [Notebooks/Brief Introduction.ipynb](Notebooks/Brief Introduction.ipynb)
 
 - - - - - - -
 **An RDKit-centric intro to git and github**
@@ -123,9 +123,9 @@ Slides: [Presentations/Vianello_FasterSimilarityQueries.pdf](Presentations/Viane
 Nikolas Fechner
 
 Notebooks:
- - [Tutorials/RDKit UGM 2016 - ML Part I; Toy data example and overfitting risks.ipynb](Part 1)
- - [Tutorials/RDKit UGM 2016 - ML Part II;- Descriptors and Regression.ipynb](Part 2)
- - [Tutorials/RDKit UGM 2016 - ML Part III; Fingerprints and Classification.ipynb](Part 3)
+ - [Tutorials/Part I - Toy data example and overfitting risks.ipynb](Part 1)
+ - [Tutorials/Part II - Descriptors and Regression.ipynb](Part 2)
+ - [Tutorials/Part III - Fingerprints and Classification.ipynb](Part 3)
 
 - - - - - - -
 **Implementing RDKit nodes for KNIME**
